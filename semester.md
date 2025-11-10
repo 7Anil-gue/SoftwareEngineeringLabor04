@@ -5,7 +5,7 @@
 
 ## Module
 
-### Software-Engineering
+### Software-Engineering-Teknik
 
 - Einführung
 - Vorgehensmodelle
