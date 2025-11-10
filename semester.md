@@ -15,3 +15,8 @@
 ### Signale und Systeme
 
 ### Mathematik 3
+
+- LaPlace-Transformation
+- Fourier-Transformation
+- Fourierreihen
+- Z-Transformation
