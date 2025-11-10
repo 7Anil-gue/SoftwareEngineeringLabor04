@@ -5,7 +5,7 @@
 
 ## Module
 
-### Software-Technik
+### Software-Teknik
 
 - Einführung
 - Vorgehensmodelle
