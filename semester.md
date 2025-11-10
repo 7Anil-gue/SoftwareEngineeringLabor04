@@ -14,4 +14,4 @@ OO¯¯¯¯ OO ¯¯ OO°¯¯¯°OO¯¯¯OO ¯°°OO¯¯¯°OO°¯¯¯°OO¯¯¯OO
 
 AUf diesem Ast sitzt ein Affe names Jarmis
 
-gutbrot
+gutbrot / schlechtbrot
