@@ -20,6 +20,3 @@
 - Fourier-Transformation
 - Fourierreihen
 - Z-Transformation
-
-
-#GRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR FRANZOSEN!
